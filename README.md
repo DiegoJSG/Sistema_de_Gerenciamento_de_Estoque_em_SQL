@@ -1,4 +1,4 @@
-# Sistema_de_Gerenciamento_de_Estoque_em_SQL
+# Sistema de Gerenciamento de Estoque em SQL
 
 
 ## Descrição:
